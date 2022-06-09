@@ -1,0 +1,18 @@
+Attributes
+Reason for migration:Political/religious/ethnic persecution,Flooding,Drought,Economic opportunity,Wildfires
+Language Fluency:Fluent,Broken,None
+Occupation:Cleaner,Teacher,Doctor,Unemployed
+Gender:Male,Female
+Religion:Christian,Muslim,Agnostic
+Origin:Another region in your country,Afghanistan,Ethiopia,Ukraine,Myanmar
+Vulnerability:None,Post Traumatic Stress Disorder (PTSD),Food insecurity,No surviving family members,Physically handicapped
+Weights
+Reason for migration:0.2,0.2,0.2,0.2,0.2
+Language Fluency:0.333333333333,0.333333333333,0.333333333333
+Occupation:0.25,0.25,0.25,0.25
+Gender:0.5,0.5
+Religion:0.333333333333,0.333333333333,0.333333333333
+Origin:0.2,0.2,0.2,0.2,0.2
+Vulnerability:0.2,0.2,0.2,0.2,0.2
+Restrictions
+Language Fluency:None;Country of Origin:Another region in your country

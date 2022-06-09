@@ -1,0 +1,18 @@
+Attributes
+Reason for migration:Politische/religiöse/ethnische Verfolgung,Überflutung,Dürre,Wirtschaftliche Perspektive,Waldbrände
+Language Fluency:Fließend,Gebrochen,Keine
+Occupation:Reinigungskraft,Lehrer,Arzt,Arbeitslos
+Gender:Männlich,Weiblich
+Religion:Christian,Muslim,Atheist
+Origin:Aus einem anderen Teil Ihres Landes,Afghanistan,Äthiopien,Ukraine,Myanmar
+Vulnerability:Keine,PTBS (Posttraumatische Belastungsstörung),Ernährungsunsicherheit,Keine überlebenden Familienmitglieder,Körperliche Behinderung
+Weights
+Reason for migration:0.2,0.2,0.2,0.2,0.2
+Language Fluency:0.333333333333,0.333333333333,0.333333333333
+Occupation:0.25,0.25,0.25,0.25
+Gender:0.5,0.5
+Religion:0.333333333333,0.333333333333,0.333333333333
+Origin:0.2,0.2,0.2,0.2,0.2
+Vulnerability:0.2,0.2,0.2,0.2,0.2
+Restrictions
+Language Fluency:Keine;Origin:Aus einem anderen Teil Ihres Landes

@@ -1,0 +1,17 @@
+﻿qualtrics_code,state_name,region,east_indicator,east_indicator2,east_indicator3,east_indicator4,east_indicator5,east_indicator6,east_indicator7
+1,Baden-Wurttemberg,West,0,0,0,0,0,1,1
+2,Bayern,Bavaria,0,1,0,1,0,1,1
+3,Bremen,West,0,0,0,0,0,0,0
+4,Hamburg,West,0,0,0,0,0,0,0
+5,Hessen,West,0,0,0,0,0,0,0
+6,Niedersachsen,West,0,0,0,0,0,1,1
+7,Nordrhein-Westfalen,West,0,0,0,0,0,1,1
+8,Rheinland-Pfalz,West,0,0,0,0,0,1,1
+9,Saarland,West,0,0,0,0,0,1,1
+10,Schleswig-Holstein,West,0,0,0,0,0,1,1
+11,Brandenburg,East,1,1,1,1,1,1,1
+12,Mecklenburg-Vorpommern,East,1,1,1,1,1,1,1
+13,Sachsen,East,1,1,1,1,1,1,1
+14,Sachsen-Anhalt,East,1,1,0,0,1,0,0
+15,Thuringen,East,1,1,0,0,1,0,0
+16,Berlin,Berlin,0,0,0,0,1,0,0
